@@ -8,8 +8,8 @@
 
 ***Date de visite:*** La visite a eu lieu le 2 février 2023.
 
-<img src="images/images/affiche.jpeg" width=250px heigth=250px /> 
-<img src="images/images/selfie.JPG" width=250px heigth=250px />
+<img src="" width=250px heigth=250px /> 
+<img src="i" width=250px heigth=250px />
 
 
 ## L'oeuvre: nature morte 7
