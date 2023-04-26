@@ -18,6 +18,8 @@
 
 -L'équipe
 
+
+
 ### Composantes
 
 Le projet contient 4 haut-parleurs. Ces derniers projettent les sons des quatre coins de la petite pièce, ce qui permet au visiteur de s'immerser dans une ambiance sonore sous-marine 360 degrés. Il y a également trois projecteurs qui affiche une réplique faite en vecteurs du fond de l'océan, qui a été faite dans photoshop. Une tablette graphique est présente au centre pour qu'on puisse intéragir avec l'exposition. 
