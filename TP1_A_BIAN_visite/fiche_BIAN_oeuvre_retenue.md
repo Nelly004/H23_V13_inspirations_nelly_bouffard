@@ -8,8 +8,8 @@
 
 ***Date de visite:*** La visite a eu lieu le 2 février 2023.
 
-<img src="images_BIAN/affiche_bian.png" width=250px heigth=250px /> 
-<img src="" width=250px heigth=250px />
+<img src="images_bian/affiche_bian.png" width=250px heigth=250px /> 
+<img src="images_bian/devant_bian.jpg" width=250px heigth=250px />
 
 
 ## L'oeuvre: nature morte 7
@@ -21,10 +21,14 @@
 
 <sup><sub> Baron Lanteigne. "nature morte 7", Baron Lanteigne, "https://baronlanteigne.com/naturemorte7.html" 2022 </sub></sup>
 
+<img src="images_bian/oeuvre_bian.JPG" width=250px heigth=250px />
+<img src="images_bian/cartel_bian.JPG" width=250px heigth=250px />
 
 ### Composantes
 
 L'oeuvre comprend plusieurs télévisisons accrochées et posées au sol.
+[Vidéo](https://youtube.com/shorts/MamwvAp319Q?feature=share)
+<img src="images_bian/boite_bian.jpg" width=250px heigth=250px />
 
 ### Mise en exposition
 
