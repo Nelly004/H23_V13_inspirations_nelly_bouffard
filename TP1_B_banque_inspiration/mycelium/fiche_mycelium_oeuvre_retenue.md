@@ -11,21 +11,26 @@
 
 ## L'oeuvre: Echomarine
 
-*Conçue par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
-*
+Conçue par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
 
 *"Une projection immersive controlée par un dispositif interactif qui nous donne un aperçu de la beauté des fonds marins tout en mettant de l'avant ses enjeux. Animaux interactifs et plantes marines, Echomarine a un but contemplatif et vise à conscientiser."*
 
 -L'équipe
 
+<img src="images_mycelium/images_oeuvre_retenue/affiche_echomarine.png" width=400px heigth=400px />
+<img src="images_mycelium/images_oeuvre_retenue/cartel_echomarine.jpg" width=400px heigth=400px />
 
+[Vidéo](https://youtube.com/shorts/73GodWTeL10?feature=share)
 
 ### Composantes
 
 Le projet contient 4 haut-parleurs. Ces derniers projettent les sons des quatre coins de la petite pièce, ce qui permet au visiteur de s'immerser dans une ambiance sonore sous-marine 360 degrés. Il y a également trois projecteurs qui affiche une réplique faite en vecteurs du fond de l'océan, qui a été faite dans photoshop. Une tablette graphique est présente au centre pour qu'on puisse intéragir avec l'exposition. 
 
+
 ### Mise en exposition
 Pour soutenir la tablette graphique au centre de la pièce, un support a été utilisé. Ce dernier permettait à la tablette graphique d'être à une hauteur propice à l'intéraction. Le plafond a des barres en métal ainsi que des prises de courant qui facilitent le branchement et la dissimulation des fils des trois projecteurs ainsi des quatre hauts-parleurs. Des toiles planches ont été suspendues sur trois murs adjacents afin de procurer une surface plus plane pour des projections claires.
+
+<img src="images_mycelium/images_oeuvre_retenue/vue_ensemble_echomarine.jpeg" width=400px heigth=400px />
 
 ### Intéractivité
 
