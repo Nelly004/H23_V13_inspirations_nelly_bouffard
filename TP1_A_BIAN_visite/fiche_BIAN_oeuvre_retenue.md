@@ -13,17 +13,21 @@
 
 
 ## L'oeuvre: nature morte 7
-
 *Conçue par Baron Lanteigne
+
+*"Nature Morte 7 présente une fenêtre – unique mais fragmentée – composée d'écrans posés au sol. Elle ouvre sur un monde oublié, mais toujours en activité. La pièce centrale de cette œuvre combine un écran avec divers composantes électroniques qui s’illumine. La sculpture suspendue tourne le dos au spectateur, afin de mettre en évidence son fonctionnement interne. L’électroniques « grand public » dont l'œuvre est composée sont délibérément sortis de leur contexte habituel. Cela permet de révéler leur potentiel, qui est souvent banalisé."
+
+-Baron Lanteigne
+<sup><sub> Baron Lanteigne. "nature morte 7", Baron Lanteigne, "https://baronlanteigne.com/naturemorte7.html" 2022 </sub></sup>
 
 
 ### Composantes
 
-Les artiste ont utilisé trois projecteurs afin de pouvoir afficher le décor marin sur les murs de la petite pièce. Des hauts parleurs sont utilisés pour l'ambiance sonore de l'océan (bruits d'eau et d'animaux). Dans le centre de la pièce se trouve un ipad posé sur un support, où les visiteurs peuvent cliquer sur des boutons afin de faire apparaître des animations d'animaux marins en voie de disparition.
+L'oeuvre comprend plusieurs télévisisons accrochées et posées au sol.
 
 ### Mise en exposition
 
-
+Un câble garde les composantes suspendues et des fils sont dissimulés dans le sol.
 
 ### Intéractivité
 
