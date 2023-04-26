@@ -28,6 +28,7 @@
 
 L'oeuvre comprend plusieurs télévisisons accrochées et posées au sol.
 [Vidéo](https://youtube.com/shorts/MamwvAp319Q?feature=share)
+
 <img src="images_bian/boite_bian.jpg" width=250px heigth=250px />
 
 ### Mise en exposition
