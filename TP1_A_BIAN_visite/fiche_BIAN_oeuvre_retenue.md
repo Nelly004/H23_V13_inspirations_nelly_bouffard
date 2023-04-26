@@ -18,6 +18,7 @@
 *"Nature Morte 7 présente une fenêtre – unique mais fragmentée – composée d'écrans posés au sol. Elle ouvre sur un monde oublié, mais toujours en activité. La pièce centrale de cette œuvre combine un écran avec divers composantes électroniques qui s’illumine. La sculpture suspendue tourne le dos au spectateur, afin de mettre en évidence son fonctionnement interne. L’électroniques « grand public » dont l'œuvre est composée sont délibérément sortis de leur contexte habituel. Cela permet de révéler leur potentiel, qui est souvent banalisé."
 
 -Baron Lanteigne
+
 <sup><sub> Baron Lanteigne. "nature morte 7", Baron Lanteigne, "https://baronlanteigne.com/naturemorte7.html" 2022 </sub></sup>
 
 
