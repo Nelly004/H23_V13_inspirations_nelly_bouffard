@@ -9,10 +9,10 @@ Par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbich
 [Site web](https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html)
 
 <p align="center">
-<img src="images/edria.jpg" width=400px heigth=400px />
+<img src="images_mycelium/images_exploration/equipe_edria_explo.jpg" width=400px heigth=400px />
 </p>
 <p align="center">
-<img src="images/plan_edria.png" width=400px heigth=400px />
+<img src="images_mycelium/images_exploration/plan_edria_explo.png" width=400px heigth=400px />
 </p> 
 
 [Plan détaillé](https://github.com/F-C-A/EDRIA/tree/main/docs/preproduction#cartographie)
@@ -45,9 +45,9 @@ Par Éloïse Gagné, Skayla Stimphil, Michaël Simard, Pénélope Morrisson
 [Site web](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
 
 <p align="center">
-<img src="images/lumasol.jpg" width=400px heigth=400px />
+<img src="images_mycelium/images_exploration/equipe_lumasol_explo.jpg" width=400px heigth=400px />
 <p align="center">  
-<img src="images/plan_lumasol.png" width=400px heigth=400px />
+<img src="images_mycelium/images_exploration/plan_lumasol_explo.png" width=400px heigth=400px />
 
 [Plan détaillé](https://github.com/Kawabongaaa/LumaSol/tree/main/docs/preproduction#Cartographie-et-Ressources-spatiales-requises-(rangement-et-locaux))
 
@@ -79,7 +79,7 @@ Par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
 
 [Courte vidéo](https://youtube.com/shorts/73GodWTeL10?feature=share)
 <p align="center">
-<img src="images/plan_echo.png" width=400px heigth=400px />
+<img src="images_mycelium/images_exploration/plan_echomarine_explo.png" width=400px heigth=400px />
 
 [Plan détaillé](https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction)
 
@@ -111,9 +111,9 @@ Par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
 [Site web](https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html)
 
 <p align="center">
-<img src="images/nexoum.jpg" width=400px heigth=400px />
+<img src="images_mycelium/images_exploration/equipe_nexum_explo.jpg" width=400px heigth=400px />
 <p align="center">
-<img src="images/plan_nexoum.png" width=400px heigth=400px />
+<img src="images_mycelium/images_exploration/plan_nexum_explo.png" width=400px heigth=400px />
 
 [Plan détaillé](https://github.com/Boucle-RDDL/Nexum/tree/main/docs/preproduction)
 
