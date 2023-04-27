@@ -27,7 +27,7 @@
 
 ***Type d'installation:*** Ce dispositif est une installation permanente à l'exposition que j'ai visitée. 
 
-***Fonction:*** Ce dispositif est une des plusieurs projections servant à indiquer 
+***Fonction:*** Ce dispositif est une des plusieurs projections servant à indiquer où se trouvait les tuyaux du Marché Central
 
 
 
