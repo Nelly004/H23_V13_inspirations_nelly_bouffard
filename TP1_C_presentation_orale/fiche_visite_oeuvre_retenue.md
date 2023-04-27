@@ -3,20 +3,17 @@
 ## Informations sur l'exposition 
 ***Nom de l'exposition:*** Montréal au Coeur des Échanges
 
-***Lieu de mise en exposition:***  
+***Lieu de mise en exposition:*** Dans le sous-sol du Musée de Pointe-à-Callière, où se trouvent les vestiges de l'ancien marché central de Montréal. La visite consiste à faire découvrir l'histoire de ce lieu, de l'arrivée des chasseurs-cueilleurs sur le territoire du Vieux-Montréal à aujourd'hui. 
 
-***Type d'exposition:*** Elle est temporaire et extérieure, à l'exception d'Echomarine.
+***Type d'exposition:*** Elle est permanente et intérieure
 
-***Date de visite:*** L'exposition a officiellement eu lieu du 20 au 23 mars.
+***Date de visite:*** Ma visite a eu lieu le vendredi 21 avril.
 
+## L'oeuvre: Les canalisation du Marché Central
 
-## L'oeuvre: Echomarine
+Conçue par GSM Project
 
-Conçue par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
-
-*"Une projection immersive controlée par un dispositif interactif qui nous donne un aperçu de la beauté des fonds marins tout en mettant de l'avant ses enjeux. Animaux interactifs et plantes marines, Echomarine a un but contemplatif et vise à conscientiser."*
-
--L'équipe
+Le dispositif que j'ai sélectionné est plutôt simple; ce sont des projections de petites tailles qui sont affichées directement sur le site archéologique afin de simuler de l'eau qui coule des anciens tuyaux. Elles servent à indiquer où se trouvaient les tuyaux du Marché Central ainsi que leur utilité.
 
 <img src="images_mycelium/images_oeuvre_retenue/affiche_echomarine.png" width=400px heigth=400px />
 <img src="images_mycelium/images_oeuvre_retenue/cartel_echomarine.jpg" width=400px heigth=400px />
@@ -25,20 +22,20 @@ Conçue par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
 
 ### Composantes
 
-Le projet contient 4 haut-parleurs. Ces derniers projettent les sons des quatre coins de la petite pièce, ce qui permet au visiteur de s'immerser dans une ambiance sonore sous-marine 360 degrés. Il y a également trois projecteurs qui affiche une réplique faite en vecteurs du fond de l'océan, qui a été faite dans photoshop. Une tablette graphique est présente au centre pour qu'on puisse intéragir avec l'exposition. 
-
+Afin de créer ces dispositifs multimédias, des projecteurs sont vissés au plafond et pointent vers les tuyaux. Les fils qui les alimentent sont cachés dans des tubes au plafond afin de limiter leur présence. 
 
 ### Mise en exposition
-Pour soutenir la tablette graphique au centre de la pièce, un support a été utilisé. Ce dernier permettait à la tablette graphique d'être à une hauteur propice à l'intéraction. Le plafond a des barres en métal ainsi que des prises de courant qui facilitent le branchement et la dissimulation des fils des trois projecteurs ainsi des quatre hauts-parleurs. Des toiles planches ont été suspendues sur trois murs adjacents afin de procurer une surface plus plane pour des projections claires.
+
+La projection est sur la surface du tuyaux pour donner l'impression que de l'eau coule de celui-ci.
 
 ### Intéractivité
 
-La tablette graphique permet d'appuyer sur des images d'animaux marins. Lorsqu'on clique, on est mené vers une nouvelle page où est inscrit des informations sur l'animal sélectionné, et une animation spéciale est activée (l'animal nage autour de la pièce et des sons sont joués).
+
 
 ## Mes impressions sur l'exposition
 
 ### Ce que j'ai aimé
-Echomarine était mon oeuvre préférée parmi les projets de la cohorte. Tout d'abord, je l'ai aimé car elle m'a touché personnellement. En effet, les animaux marins sont quelque chose qui me tient à coeur, car mon animal préféré vient de l'océan. Lorsque je suis rentrée dans la pièce, j'ai tout de suite adoré l'ambiance créée par le son et la fresque projetée sur le mur. J'ai aussi aimé l'aspect sensibilisation qu'on découvre lorsqu'on clique sur un icône d'animal et on en apprend sur ce dernier, tout en le voyant se promener autour de soi. Je crois que le fait que les animaux s'animent encourage les visiteurs à en apprendre plus sur ces bêtes des profondeurs. Ensuite, elle m'a procuré un sentiment d'immersion que je n'ai pas ressenti avec les autres projets que j'ai visités. Effectivement, les facteurs audiovisuels et le fait que l'oeuvre se déroule dans un lieu clos permettent aux visiteurs de véritablement se plonger dans l'expérience, contrairement aux autres oeuvres qui se passent à l'extérieur avec plusieurs éléments dérangeants. Bref, j'ai penché pour Echomarine puisqu'elle correspondait à mes intérêts et car je l'ai trouvé beaucoup plus mémorable.
+Ce que j'ai le plus aimé dans cette oeuvre, c'est la créativité du concept. Je trouve que les projections redonnent de la vie au site archéologique.
 
 ### Ce que j'ai moins apprécié
 L'élément que j'ai le moins apprécié dans Echomarine était que lorsqu'on cliquait sur des animaux trop vite, leurs animations et leurs effets sonores s'activaient tous en même temps et ça devenait cacophonique et surchargé. À leur place, j'aurais fait en sorte que les animations se mettent en file d'attente lorsque le visiteur est trop rapide.
