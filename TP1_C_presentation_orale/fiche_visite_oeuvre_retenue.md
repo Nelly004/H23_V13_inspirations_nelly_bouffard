@@ -23,7 +23,7 @@ Les dispositifs que j'ai sélectionnés sont des projections qui sont affichées
 <img src="images_visite_individuelle/images_fiche_visite_personnelle/projection_mur_visite_individuelle.jpeg" width=400px heigth=400px />
 <img src="images_visite_individuelle/images_fiche_visite_personnelle/projection_tuyaux_visite_individuelle.jpeg" width=400px heigth=400px />
 
-[Vidéo](https://youtube.com/shorts/73GodWTeL10?feature=share)
+[Vidéo](https://youtu.be/tALA0KsFJIM)
 
 ### Composantes
 
@@ -35,7 +35,7 @@ Afin de créer ces dispositifs multimédias, des projecteurs sont vissés au pla
 
 ### Mise en exposition
 
-La projection est sur la surface du tuyaux pour donner l'impression que de l'eau coule de celui-ci. 
+Les projections ont des éléments de mise en exposition limités, puisqu'elles sont affichées directement sur le site archéologique. Donc, il n'y a pas de composantes telles que des toiles. Elle sont parfois accompgnées de cartel pour expliquer ce qu'elles représentent.
 
 ### Intéractivité
 
@@ -44,7 +44,8 @@ Puisque que l'oeuvre est destinée à être contemplative, son interactivité es
 ## Mes impressions sur l'exposition
 
 ### Ce que j'ai aimé
-Ce que j'ai le plus aimé dans cette oeuvre, c'est la créativité du concept. Je trouve que les projections redonnent de la vie au site archéologique. Aussi, l'idée d'avoir des cartels projetés sur les surface diffère des cartel matériel classiques, ce que je trouve très original. 
+Ce que j'ai le plus aimé dans cette oeuvre, c'est la créativité du concept. Tout d'abord, je trouve que les projections redonnent de la vie au site archéologique. En effet, celles-ci sont animées et donnent l'impression que le site archéologique est encore un lieu actif. Par exemple, les projections de l'eau qui coulent des tuyaux font en sorte que ceux-ci ont l,air en marche. Ensuite, l'idée d'avoir des cartels projetés sur les surface diffère des cartel matériel classiques, ce que je trouve très original. C'est une façon de transmettre l'information que je n'ai jamais aperçue dans mes visites précédentes, 
+donc j'ai trouvé cette idée innovatrice.
 
 ### Ce que j'ai moins apprécié
-L'élément que j'ai le moins apprécié dans Echomarine était que lorsqu'on cliquait sur des animaux trop vite, leurs animations et leurs effets sonores s'activaient tous en même temps et ça devenait cacophonique et surchargé. À leur place, j'aurais fait en sorte que les animations se mettent en file d'attente lorsque le visiteur est trop rapide.
+J'ai moins apprécié le fait que toutes les projections étaient contemplatives, j'aurais aimé un peu d'intéraction.
